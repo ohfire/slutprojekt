@@ -1,0 +1,16 @@
+Mål: Skapa ett Breakout-spel. Funktion före allt.
+
+✔ En boll som studsar korrekt
+✔ Block som förstörs vid träff
+✔ Paddel som styrs med tangentbord
+✔ Powerups (större paddel, fler bollar)
+✔ Highscore sparas i fil
+
+Struktur:
+- GameObject.cs: Basklass
+- Ball.cs, Paddle.cs, Block.cs: Ärver från GameObject
+- GameManager.cs: Spelloop, logik
+- FileManager.cs: Hanterar highscore
+
+Betygsmål: C
+Strategi: Modulär, ren, återanvändbar kod. Inga onödiga visuella detaljer. Endast funktion.
