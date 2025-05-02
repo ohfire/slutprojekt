@@ -1,0 +1,20 @@
+✅ Funktionalitet:
+- Bollen rör sig och studsar korrekt
+- Blocken förstörs vid kollision
+- Paddel styrs med piltangenter
+- Powerup (större paddel) fungerar
+- Highscore sparas i highscore.txt
+
+❌ Ej färdigt:
+- Power-up för fler bollar – prioriterades bort pga tid
+
+💀 Reflektion:
+- Grafiken kunde ha polerats – valde funktion före form
+- Kollisioner fungerar men kunde optimeras ytterligare
+
+🔥 Styrkor:
+- Struktur: Klar separation av ansvar
+- Kod: Stabil, skalbar, lätt att utöka
+- Highscore: Fungerar, permanent
+
+Avsiktlig design. Optimerad för kontroll, inte för nöje.
